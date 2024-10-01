@@ -5,8 +5,10 @@ def add(x, y):
         return x
     return x + y
 
+
 print(add(4, 2))
 print(add(3, 5))
 print(add(10, 10))
 print(add(2, 1))
 
+print(add(1, 2))
